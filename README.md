@@ -39,4 +39,4 @@
 | Add it | [https://pub.dev/packages/fl_chart](https://pub.dev/packages/fl_chart) |
 | Learn How To Add it | [plugins/github/README.md](https://github.com/imaNNeoFighT/fl_chart/blob/master/repo_files/documentations/bar_chart.md) |
 
-<img src="/path/to/img.jpg" alt="Alt text" title="Optional title">
+<img src="https://i.pinimg.com/originals/a3/c7/35/a3c7357e33061a3fc4f43fdd2622cbfb.gif" alt="Alt text" title="Optional title">
