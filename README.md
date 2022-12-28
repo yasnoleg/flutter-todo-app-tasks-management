@@ -25,3 +25,10 @@
             ...
     </application>
 
+## Features
+
+- add daily task and receive notification when the start time of your task comes
+- manage your projects 
+- beautiful Ui
+- smooth animation
+- provide the users with opportunity to see there daily advancement 
