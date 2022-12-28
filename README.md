@@ -32,3 +32,13 @@
 - beautiful Ui
 - smooth animation
 - provide the users with opportunity to see there daily advancement 
+
+## Add Statistics
+| Plugin | ft_chart |
+| ------ | ------ |
+| Add it | [https://pub.dev/packages/fl_chart][PlDb] |
+| Learn How To Add it | [[plugins/github/README.md](https://github.com/imaNNeoFighT/fl_chart/blob/master/repo_files/documentations/bar_chart.md)][PlGh] |
+| Google Drive | [plugins/googledrive/README.md][PlGd] |
+| OneDrive | [plugins/onedrive/README.md][PlOd] |
+| Medium | [plugins/medium/README.md][PlMe] |
+| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
