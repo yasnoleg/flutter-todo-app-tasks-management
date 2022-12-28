@@ -38,7 +38,5 @@
 | ------ | ------ |
 | Add it | [https://pub.dev/packages/fl_chart](https://pub.dev/packages/fl_chart) |
 | Learn How To Add it | [plugins/github/README.md](https://github.com/imaNNeoFighT/fl_chart/blob/master/repo_files/documentations/bar_chart.md) |
-| Google Drive | [plugins/googledrive/README.md][PlGd] |
-| OneDrive | [plugins/onedrive/README.md][PlOd] |
-| Medium | [plugins/medium/README.md][PlMe] |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
+
+<img src="/path/to/img.jpg" alt="Alt text" title="Optional title">
