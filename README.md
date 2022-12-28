@@ -1,6 +1,6 @@
 # flutter-todo-app-tasks-management
 
-<h1> Don't Forget To Add This Lines To "android/app/src/main/AndroidManifest"</h1>
+<h3> Don't Forget To Add This Lines To "android/app/src/main/AndroidManifest"</h3>
     <!-- Permission Notification-->
     <uses-permission android:name="android.permission.POST_NOTIFICATIONS"/>
     
@@ -9,8 +9,8 @@
 
     <!-- 1. Permission -->
     <uses-permission android:name="android.permission.RECORD_AUDIO" />
-    <h3>And</h3>
-      <application
+    
+    <application
         ...
         android:usesCleartextTraffic="true">
       <activity
@@ -24,3 +24,4 @@
             </intent-filter>
             ...
     </application>
+
