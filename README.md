@@ -41,3 +41,4 @@
 | Add it | [https://pub.dev/packages/fl_chart](https://pub.dev/packages/fl_chart) |
 | Learn How To Add it | [plugins/github/README.md](https://github.com/imaNNeoFighT/fl_chart/blob/master/repo_files/documentations/bar_chart.md) |
 
+![Semantic description of image](/Téléchargements/Giant_Page_.png)
